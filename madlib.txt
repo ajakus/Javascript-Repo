@@ -1,0 +1,24 @@
+//build as many strings as you want
+//String1
+//String2
+//String3
+//etc...
+
+showPopup()//build a sentence with a popup text box using your own words with
+            //a string variable as a blank for the madlib like "String1"
+
+showPopup()//another sentence
+showPopup()//another sentence
+showPopup()//another sentence
+showPopup()//another sentence
+showPopup()//another sentence
+//plays all of the popups as one large popup to watch for where you can implant
+//your madlibs
+//asks for the first String variable
+//the strings value will be set to the next input and goes down the list
+//for example the question will appear "String1 value?" requiring user input
+//after all values have been given, it relays the entire madlib with replacement
+//values
+
+
+madlib---------------------------------------------------------------------------------------------------------
